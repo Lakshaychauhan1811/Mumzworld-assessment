@@ -12,8 +12,8 @@ Moms Verdict synthesizes product reviews into a structured bilingual verdict in 
 
 ## Prototype access
 
-- **GitHub repo**: `<https://github.com/Lakshaychauhan1811/Mumzworld-assessment>`
-- **Loom walkthrough (3 min)**: `<https://www.loom.com/share/53189065a414416dbef83962554892fa>`
+- **GitHub repo**: https://github.com/Lakshaychauhan1811/Mumzworld-assessment
+- **Loom walkthrough (3 min)**: https://www.loom.com/share/53189065a414416dbef83962554892fa
 
 ---
 
